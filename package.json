@@ -1,0 +1,20 @@
+{
+  "name": "dalleen-jquery",
+  "version": "0.0.0",
+  "description": "data extraction with jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node scripts/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jphuisamen/dalleen-jquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jphuisamen/dalleen-jquery/issues"
+  },
+  "homepage": "https://github.com/jphuisamen/dalleen-jquery#readme"
+}
